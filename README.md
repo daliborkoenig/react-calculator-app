@@ -1,3 +1,3 @@
 # React Calculator 
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot2.png)
