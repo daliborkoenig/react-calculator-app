@@ -111,7 +111,7 @@ function Calculator() {
         setFirst(calc)
         setTemp([])
         setDisplay([...display, key])
-        setDone(!done)
+        // setDone(!done)
         console.log("this");
       }
     }
